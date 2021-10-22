@@ -25,3 +25,5 @@ ________________________________________________________________________________
 [86. Partition List](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/partitionList.py)
 
 [92. Reverse Linked List II](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/reverseLinkedListII.py)
+
+[109. Convert Sorted List to Binary Search Tree](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/convertSortedListToBinaryTree.py)
