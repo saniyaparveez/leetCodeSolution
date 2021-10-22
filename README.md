@@ -23,3 +23,5 @@ ________________________________________________________________________________
 [83. Remove Duplicates from Sorted List](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/removeDuplicatesFromSortedList.py)
 
 [86. Partition List](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/partitionList.py)
+
+[92. Reverse Linked List II](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/reverseLinkedListII.py)
