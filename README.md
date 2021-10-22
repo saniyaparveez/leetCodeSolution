@@ -1,6 +1,6 @@
 # Solution of leetCode Problems
 
-**Purpose of this solution is to help people to understand code in depth.**
+**Purpose of this solution is to help people to solve competitive code (Google, Microsoft, Facebook, etc.).**
 
 **For more solution (Sponsered), please contact me on saniyaparveez7@gmail.com**
 
