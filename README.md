@@ -27,3 +27,12 @@ ________________________________________________________________________________
 [92. Reverse Linked List II](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/reverseLinkedListII.py)
 
 [109. Convert Sorted List to Binary Search Tree](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/convertSortedListToBinaryTree.py)
+
+**Tree**
+........
+
+**Dynamic Programming**
+.......
+
+**BackTracking**
+...........
