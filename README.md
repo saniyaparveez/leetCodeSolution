@@ -11,3 +11,8 @@ ________________________________________________________________________________
 [2. Add Two Numbers](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/addTwoNumbers.py)
 
 [19. Remove Nth Node From End of List](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/removeNthFromEnd.py)
+
+[21. Merge Two Sorted Lists](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/removeNthFromEnd.py)
+
+
+
