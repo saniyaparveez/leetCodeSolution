@@ -2,7 +2,7 @@
 
 **Purpose of this solution is to help people to understand code in depth.**
 
-**For more solution, please contact me on saniyaparveez7@gmail.com**
+**For more solution (Sponsered), please contact me on saniyaparveez7@gmail.com**
 
 ________________________________________________________________________________
 
