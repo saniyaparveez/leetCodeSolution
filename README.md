@@ -18,3 +18,5 @@ ________________________________________________________________________________
 
 [61. Rotate List](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/rotateList.py)
 
+[82. Remove Duplicates from Sorted List II](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/removeDuplicatesfromSortedListII.py)
+
