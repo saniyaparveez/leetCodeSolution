@@ -14,5 +14,5 @@ ________________________________________________________________________________
 
 [21. Merge Two Sorted Lists](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/removeNthFromEnd.py)
 
-
+[24. Swap Nodes in Pairs](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/swapNodesInPairs)
 
