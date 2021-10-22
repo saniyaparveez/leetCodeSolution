@@ -20,3 +20,5 @@ ________________________________________________________________________________
 
 [82. Remove Duplicates from Sorted List II](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/removeDuplicatesfromSortedListII.py)
 
+[83. Remove Duplicates from Sorted List](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/removeDuplicatesFromSortedList.py)
+
