@@ -16,3 +16,5 @@ ________________________________________________________________________________
 
 [24. Swap Nodes in Pairs](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/swapNodesInPairs.py)
 
+[61. Rotate List](https://github.com/saniyaparveez/leetCodeSolution/blob/main/LinkedList/rotateList.py)
+
