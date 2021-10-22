@@ -2,6 +2,8 @@
 
 **Purpose of this solution is to help people to solve competitive code (Google, Microsoft, Facebook, etc.).**
 
+**More than 400 leetCode solutions are available.**
+
 **For more solution (Sponsered), please contact me on saniyaparveez7@gmail.com**
 
 ________________________________________________________________________________
