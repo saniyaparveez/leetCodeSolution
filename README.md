@@ -1,6 +1,6 @@
 # Solution of leetCode Problems
 
-**Helping people solve competitive code (FAANG, Google, Microsoft, Facebook, etc.).**
+**One Stop Shop for all leetcode solutions  (FAANG, Google, Microsoft, Facebook, etc.).**
 
 **More than 400 leetCode solutions are available.**
 
