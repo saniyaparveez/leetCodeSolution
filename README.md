@@ -1,6 +1,6 @@
 # Solution of leetCode Problems
 
-**Purpose of this solution is to help people solve competitive code (Google, Microsoft, Facebook, etc. FAANG).**
+**Helping people solve competitive code (FAANG, Google, Microsoft, Facebook, etc.).**
 
 **More than 400 leetCode solutions are available.**
 
